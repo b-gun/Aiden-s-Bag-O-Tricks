@@ -14,4 +14,4 @@ https://atomiks.github.io/30-seconds-of-css/
 ### Laravel+Vue.js CRUD Tutorial
 https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/
 
-*Learn how to combine Laravel and Vue.js for basic CRUD Features.
+*Learn how to combine Laravel and Vue.js for basic CRUD Features.*
