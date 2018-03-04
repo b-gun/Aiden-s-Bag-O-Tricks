@@ -1,4 +1,4 @@
-# Aidens-Bag-O-Tricks
+# Aidens Bag-O-Tricks
 A list of resources to help with webdev.
 
 ### Jumprock 
